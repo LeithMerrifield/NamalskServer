@@ -1,0 +1,15 @@
+{
+    "ConfigVersion": "1",
+    "TimeToTanPeltPerLeather": 200,
+    "GardenLimeUsedPerLeather": 210,
+    "WildboarPeltToLeather": 6,
+    "RabbitToLeather": 1,
+    "CowPeltToLeather": 11,
+    "PigPeltToLeather": 6,
+    "DeerPeltToLeather": 8,
+    "GoatPeltToLeather": 4,
+    "BearPeltToLeather": 10,
+    "SheepPeltToLeather": 4,
+    "WolfPeltToLeather": 6,
+    "MouflonPeltToLeather": 4
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4278190080"><!---BloodSuckers-->
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="5578.13" z="10259.4" r="200"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="8750" z="10328.1" r="200"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="5593.75" z="10940.6" r="400"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="5690.63" z="7925" r="200"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="5134.38" z="8712.5" r="200"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="4893.75" z="9453.13" r="200"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="4681.25" z="8518.75" r="200"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="3621.88" z="8584.38" r="200"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="3931.25" z="8993.75" r="200"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="4462.5" z="9453.13" r="200"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="4434.38" z="7537.5" r="200"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="3359.38" z="7375" r="200"/>
+    </territory>
+    <territory color="1744830464"><!---GeneralMutants-->
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="6731.25" z="11231.3" r="400"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="5684.38" z="9928.13" r="400"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="6725" z="9884.38" r="400"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="4903.13" z="8028.13" r="400"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="4575" z="10931.3" r="200"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="5584.38" z="11062.5" r="200"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="6221.88" z="11575" r="200"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="8781.25" z="10312.5" r="400"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="7837.5" z="11225" r="200"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="7290.63" z="11190.6" r="200"/>
+        <zone name="Snork" smin="0" smax="0" dmin="0" dmax="0" x="6456.25" z="10543.8" r="300"/>
+    </territory>
+</territory-type>

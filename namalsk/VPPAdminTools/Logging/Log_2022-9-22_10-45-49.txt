@@ -1,0 +1,323 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-22_10-45-49
+====================================================================================
+10:45:49 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+10:45:49 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+10:45:49 | [PermissionManager] Perm (FreeCamera) has been registered!
+10:45:49 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuItemManager) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuServerManager) has been registered!
+10:45:49 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+10:45:49 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+10:45:49 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+10:45:49 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+10:45:49 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+10:45:49 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+10:45:49 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+10:45:49 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+10:45:49 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+10:45:49 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+10:45:49 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+10:45:49 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+10:45:49 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+10:45:49 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+10:45:49 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+10:45:49 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+10:45:49 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+10:45:49 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+10:45:49 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+10:45:49 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+10:45:49 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+10:45:49 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+10:45:49 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+10:45:49 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+10:45:49 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+10:45:49 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+10:45:49 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+10:45:49 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+10:45:49 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+10:45:49 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+10:45:49 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+10:45:49 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+10:45:49 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuBansManager) has been registered!
+10:45:49 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+10:45:49 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+10:45:49 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+10:45:49 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+10:45:49 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+10:45:49 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+10:45:49 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+10:45:49 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+10:45:49 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+10:45:49 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+10:45:49 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+10:45:49 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+10:45:49 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+10:45:49 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+10:45:49 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+10:45:49 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+10:45:49 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+10:45:49 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+10:45:49 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+10:45:49 | [PermissionManager] Adding Super Admin (76561198063550007)
+10:45:49 | [PermissionManager] Adding Super Admin (76561198069476650)
+10:45:49 | [PermissionManager] Loaded UserGroups.json
+10:45:49 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+10:45:49 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+10:45:49 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+10:45:49 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+10:45:49 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+10:45:49 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+10:45:49 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+10:45:49 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+10:45:49 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+10:45:49 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+10:45:49 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+10:45:49 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+10:45:49 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+10:45:49 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+10:45:49 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+10:45:49 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+10:45:49 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+10:45:49 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+10:45:49 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+10:45:49 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+10:45:49 | Building Sets Loaded: 0
+10:47:25 | Player "PhattSausage" (steamId=76561198063550007) connected to server!
+10:48:5 | Player "PhattSausage" (steamId=76561198063550007) connected to server!
+10:48:58 | "PhattSausage" (steamid=76561198063550007) healed player (steamid=76561198063550007)
+10:49:1 | "PhattSausage" (steamid=76561198063550007) gave godmode to (steamid=76561198063550007)
+10:49:16 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6211.920410, 21.158943, 9254.015625>)
+10:49:16 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6217.837891, 21.020012, 9351.881836>)
+10:49:16 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6219.778809, 21.773586, 9390.857422>)
+10:49:16 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6216.146973, 20.967642, 9479.778320>)
+10:49:17 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6213.212402, 21.000002, 9543.835938>)
+10:49:17 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6210.483398, 21.000004, 9605.445313>)
+10:49:17 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6205.323242, 19.582779, 9718.652344>)
+10:49:17 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6205.245605, 21.024940, 9720.438477>)
+10:49:19 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6201.541504, 18.264944, 9738.114258>)
+10:49:19 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6178.678711, 8.413486, 9813.676758>)
+10:49:20 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6169.891602, 8.414727, 9835.258789>)
+10:49:21 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6162.473633, 9.228520, 9851.452148>)
+10:49:22 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6160.264160, 9.471642, 9854.357422>)
+10:49:22 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6159.194824, 10.385152, 9856.281250>)
+10:49:23 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6158.787598, 10.765865, 9856.875977>)
+10:49:23 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6156.048340, 10.544260, 9861.779297>)
+10:49:23 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6155.820801, 10.640005, 9862.146484>)
+10:49:23 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6155.119141, 10.413004, 9863.241211>)
+10:49:24 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6148.977539, 10.649220, 9874.484375>)
+10:49:24 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6140.093262, 10.474270, 9890.514648>)
+10:49:24 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6139.359375, 11.499657, 9890.878906>)
+10:49:25 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6138.168945, 10.391552, 9891.178711>)
+10:49:27 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5897.963379, 26.176233, 10255.205078>)
+10:49:30 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5877.301270, 31.489115, 10278.962891>)
+10:49:31 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5869.604492, 33.584713, 10286.060547>)
+10:49:31 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5862.938477, 35.453506, 10292.285156>)
+10:49:31 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5854.008301, 37.399166, 10300.545898>)
+10:49:31 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5828.833496, 39.802189, 10323.905273>)
+10:49:32 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5812.587402, 42.004776, 10339.003906>)
+10:49:32 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5809.015625, 44.221775, 10343.007813>)
+10:49:32 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5804.330566, 46.349751, 10350.047852>)
+10:49:32 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5798.553711, 48.261990, 10359.030273>)
+10:49:32 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5794.832520, 50.160206, 10365.565430>)
+10:49:35 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5797.778809, 53.032017, 10391.547852>)
+10:49:35 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5798.046387, 52.220688, 10404.251953>)
+10:49:36 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5796.928711, 49.752224, 10422.680664>)
+10:49:41 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5836.302734, 41.266510, 10476.677734>)
+10:49:41 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5841.057129, 42.064316, 10482.129883>)
+10:49:41 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5863.515137, 38.812183, 10507.680664>)
+10:49:42 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5869.581543, 39.066265, 10514.572266>)
+10:49:42 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5870.819336, 40.449669, 10515.950195>)
+10:49:42 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5871.851074, 41.663204, 10517.143555>)
+10:49:42 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5889.547363, 42.449760, 10538.478516>)
+10:49:43 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5893.022949, 41.806786, 10542.358398>)
+10:49:43 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5893.213867, 43.252346, 10542.484375>)
+10:49:43 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5913.583984, 40.750298, 10564.756836>)
+10:49:43 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5917.358398, 41.290455, 10568.837891>)
+10:49:44 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5918.805664, 41.614166, 10570.242188>)
+10:49:44 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5925.136230, 41.536083, 10577.098633>)
+10:49:44 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5925.690918, 41.963100, 10577.337891>)
+10:49:44 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5927.461914, 42.805836, 10578.651367>)
+10:49:45 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5937.956055, 43.232986, 10589.733398>)
+10:49:45 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5947.735840, 42.663467, 10599.718750>)
+10:49:45 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5968.830566, 40.235611, 10622.811523>)
+10:49:46 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5974.182129, 36.957859, 10633.314453>)
+10:49:46 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5975.408691, 37.333763, 10635.822266>)
+10:49:47 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5991.670410, 34.869141, 10675.099609>)
+10:49:47 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6002.409668, 34.735321, 10694.184570>)
+10:49:48 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6035.793945, 30.984684, 10750.545898>)
+10:50:1 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6068.604004, 30.882927, 10803.072266>)
+10:50:2 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6098.644531, 34.329517, 10823.671875>)
+10:50:4 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6134.493652, 34.563225, 10826.887695>)
+10:50:18 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6217.463867, 37.387085, 10877.972656>)
+10:50:25 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6335.021484, 36.195347, 10934.149414>)
+10:50:26 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6348.783203, 36.943344, 10939.259766>)
+10:50:27 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6365.043457, 36.663990, 10943.918945>)
+10:50:27 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6367.115723, 37.523521, 10944.824219>)
+10:50:28 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6371.957520, 36.241417, 10946.312500>)
+10:50:28 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6373.651367, 35.446976, 10946.697266>)
+10:50:28 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6375.463867, 36.777321, 10947.250977>)
+10:50:28 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6586.333984, 16.593004, 11013.041016>)
+10:50:29 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6615.591309, 15.632935, 11022.875977>)
+10:50:29 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6453.224609, 30.624121, 10972.046875>)
+10:50:29 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6453.808594, 29.411201, 10972.189453>)
+10:50:32 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6637.826172, 15.796858, 11033.984375>)
+10:50:33 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6643.853027, 16.894144, 11035.995117>)
+10:50:47 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6767.125977, 1104.491821, 10932.774414>)
+10:50:54 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6793.841309, 15.065256, 11242.857422>)
+10:50:54 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6791.650879, 26.446930, 11217.455078>)
+10:58:50 | "PhattSausage" (steamid=76561198063550007) gave unlimited ammo to (steamid=76561198063550007)
+10:59:40 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6867.152832, 54.531685, 11297.583984>)
+10:59:46 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6868.597656, 54.531685, 11299.707031>)
+10:59:55 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6824.715332, 25.136978, 11251.030273>)
+10:59:57 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6868.819336, 56.251617, 11294.827148>)
+11:0:1 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6868.681152, 58.046814, 11294.829102>)
+11:0:2 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<7201.937500, 950.897278, 11835.332031>)
+11:0:7 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6879.544922, 15.433044, 11386.369141>)
+11:0:8 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6877.421875, 15.747681, 11384.743164>)
+11:0:18 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6875.277832, 56.237663, 11307.620117>)
+11:0:29 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6877.526367, 51.189785, 11306.428711>)
+11:0:30 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6875.344238, 54.531685, 11304.788086>)
+11:0:40 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6963.006836, 41.690475, 11316.700195>)
+11:0:47 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6956.110840, 37.468395, 11273.445313>)
+11:0:49 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6973.856445, 39.249165, 11301.295898>)
+11:0:49 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6978.620117, 41.399837, 11300.254883>)
+11:0:50 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6980.398926, 39.421989, 11300.005859>)
+11:0:51 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6979.170410, 42.240997, 11300.146484>)
+11:0:55 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6977.081055, 41.597176, 11300.558594>)
+11:0:55 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6976.055664, 28.700809, 11300.757813>)
+11:0:55 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6975.659180, 24.969486, 11300.937500>)
+11:0:56 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6975.387695, 22.972263, 11300.991211>)
+11:0:56 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6975.174805, 22.535688, 11301.032227>)
+11:0:56 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6975.036621, 20.555309, 11301.059570>)
+11:0:56 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6975.176270, 17.856903, 11301.384766>)
+11:0:56 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6975.329590, 18.378826, 11301.574219>)
+11:0:57 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6974.589844, 21.672962, 11301.147461>)
+11:0:57 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6974.559082, 22.174955, 11301.154297>)
+11:0:57 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6974.303223, 25.957357, 11301.205078>)
+11:0:57 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6974.010254, 28.844236, 11301.263672>)
+11:1:21 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6809.645020, 27.208061, 11154.803711>)
+11:1:24 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6808.527832, 25.969309, 11153.927734>)
+11:1:30 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6453.709473, 189.808304, 12189.383789>)
+11:1:32 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6991.478516, 28.028824, 10249.332031>)
+11:1:35 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<7040.884277, 28.885149, 10332.841797>)
+11:1:35 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<7032.307617, 30.997105, 10382.019531>)
+11:1:36 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<7029.309082, 32.916340, 10396.350586>)
+11:1:36 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<7027.378906, 34.864231, 10405.486328>)
+11:1:36 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<7025.691895, 36.727806, 10413.152344>)
+11:1:36 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<7022.979004, 38.471909, 10425.868164>)
+11:1:37 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6918.699219, 29.748564, 10702.013672>)
+11:1:37 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6887.902344, 24.247351, 10808.663086>)
+11:1:38 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6877.008789, 22.154150, 10826.664063>)
+11:1:38 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6877.056152, 22.467434, 10828.466797>)
+11:1:39 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6877.260742, 18.020979, 10829.258789>)
+11:1:39 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6877.285156, 16.340317, 10830.248047>)
+11:1:40 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6877.274902, 16.556517, 10831.617188>)
+11:1:40 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6876.645020, 17.347422, 10836.226563>)
+11:1:40 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6872.118164, 16.659208, 10861.600586>)
+11:1:41 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6869.905273, 17.826059, 10870.444336>)
+11:1:42 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6861.751953, 15.842497, 10913.566406>)
+11:1:43 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6853.710938, 15.311906, 10936.980469>)
+11:1:44 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6842.364746, 15.190001, 10957.450195>)
+11:1:44 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6831.382324, 15.649294, 10966.614258>)
+11:1:45 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6821.047852, 17.786789, 10974.025391>)
+11:1:46 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6808.237305, 18.467802, 10979.637695>)
+11:1:46 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6782.387207, 15.258089, 10997.284180>)
+11:1:47 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6771.200195, 15.157822, 11003.520508>)
+11:1:48 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6752.984375, 15.149994, 11003.834961>)
+11:1:49 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6738.982422, 15.160866, 11001.368164>)
+11:2:7 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6669.080078, 31.172432, 11041.299805>)
+11:2:23 | "76561198063550007" (steamid=76561198063550007) teleported to (pos=<5191.770020, 73.752716, 8981.209961>)
+11:2:23 | "PhattSausage": (steamid=76561198063550007) teleported to (pos=5191.77,0,8981.21)
+11:7:9 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5022.527832, 58.495750, 8969.855469>)
+11:7:10 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4964.184570, 50.980217, 8964.322266>)
+11:7:10 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4963.281250, 52.410606, 8963.819336>)
+11:7:11 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4962.668457, 51.937088, 8962.670898>)
+11:7:11 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4961.334473, 52.766884, 8962.225586>)
+11:7:11 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4960.934570, 53.048374, 8962.074219>)
+11:7:12 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4916.124512, 43.899029, 8955.510742>)
+11:7:12 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4917.848633, 44.213104, 8954.867188>)
+11:7:12 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4916.340332, 44.847198, 8954.509766>)
+11:7:13 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4915.527344, 44.584579, 8954.113281>)
+11:7:15 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4890.721680, 40.649384, 8951.381836>)
+11:7:16 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4851.431641, 32.611683, 8952.616211>)
+11:7:17 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4842.511719, 31.601089, 8952.921875>)
+11:7:17 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4824.486328, 29.687794, 8952.665039>)
+11:7:21 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4782.128906, 26.447750, 8950.431641>)
+11:7:22 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4758.860352, 24.520605, 8952.468750>)
+11:7:27 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4736.979492, 22.972906, 8940.044922>)
+11:8:56 | "76561198063550007" (steamid=76561198063550007) teleported to (pos=<4895.169922, 50.000000, 8004.209961>)
+11:8:56 | "PhattSausage": (steamid=76561198063550007) teleported to (pos=4895.17,0,8004.21)
+11:9:22 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4924.596680, 57.379738, 7917.774902>)
+11:9:29 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4925.716309, 59.861565, 7918.885742>)
+11:10:46 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4853.979492, 56.356834, 7928.076172>)
+11:10:47 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4858.639648, 56.354046, 7924.390625>)
+11:11:32 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4737.843750, 63.370853, 8005.754883>)
+11:12:25 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4991.097656, 50.507156, 7992.480469>)
+11:12:26 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4841.667969, 49.999992, 7997.795898>)
+11:12:28 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5027.329102, 50.301083, 8001.527344>)
+11:12:28 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5027.327637, 50.210018, 8001.723633>)
+11:12:29 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5012.899414, 50.305496, 7997.062988>)
+11:12:29 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5013.782227, 50.305496, 7997.269531>)
+11:12:30 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5008.956055, 50.098263, 7995.947266>)
+11:12:30 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5006.842773, 50.208454, 7995.263184>)
+11:12:30 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5017.096680, 50.263050, 7996.685059>)
+11:12:31 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5029.580566, 50.305500, 7998.244629>)
+11:12:31 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5045.165527, 50.302509, 7999.740723>)
+11:12:31 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5059.167969, 50.302509, 8000.041504>)
+11:12:31 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5072.145508, 50.302513, 8000.222168>)
+11:12:32 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5083.974609, 50.323372, 8000.346680>)
+11:12:32 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5095.801270, 50.192707, 8000.441895>)
+11:12:32 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5105.449707, 50.307831, 8001.614746>)
+11:12:32 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5116.056152, 50.051380, 8006.200195>)
+11:12:32 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5127.386230, 49.526421, 8013.144043>)
+11:12:33 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5137.387207, 49.244576, 8019.910645>)
+11:12:33 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5146.159180, 49.265656, 8026.921387>)
+11:12:33 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5153.647461, 49.639168, 8034.062012>)
+11:12:33 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5161.439453, 49.853611, 8042.522949>)
+11:12:34 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5170.556152, 49.770657, 8053.465820>)
+11:12:34 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5184.675293, 48.511276, 8070.566406>)
+11:12:34 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5190.290527, 48.372704, 8082.770508>)
+11:12:34 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5192.525879, 49.309708, 8088.318359>)
+11:12:35 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5190.261230, 47.781219, 8128.393066>)
+11:12:35 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5189.037598, 47.669632, 8146.759766>)
+11:12:35 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5188.500977, 48.512775, 8152.804688>)
+11:12:35 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5186.861816, 47.651314, 8164.598633>)
+11:12:35 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5185.594727, 48.091072, 8173.935059>)
+11:12:36 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5184.315918, 48.292583, 8184.623047>)
+11:12:36 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5182.846191, 48.292583, 8196.706055>)
+11:12:36 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5182.229492, 48.292583, 8206.376953>)
+11:12:36 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5181.726563, 48.292583, 8215.648438>)
+11:12:36 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5181.266113, 48.292759, 8224.809570>)
+11:12:36 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5180.799316, 48.293156, 8234.438477>)
+11:12:37 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5180.350098, 48.293533, 8244.625000>)
+11:12:37 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5179.967773, 48.293858, 8255.570313>)
+11:12:37 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5179.644531, 48.363754, 8266.037109>)
+11:12:37 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5179.327637, 48.363865, 8276.836914>)
+11:12:37 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5178.964355, 48.363991, 8287.773438>)
+11:12:38 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5178.601074, 48.364117, 8298.455078>)
+11:12:38 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5178.446777, 48.284077, 8310.064453>)
+11:12:38 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5179.903809, 48.283363, 8321.737305>)
+11:12:38 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5181.930176, 48.296108, 8332.511719>)
+11:12:42 | Player "PhattSausage" (steamId=76561198063550007) disconnected from server.
+11:12:44 | Player "PhattSausage" (steamId=76561198063550007) disconnected from server.

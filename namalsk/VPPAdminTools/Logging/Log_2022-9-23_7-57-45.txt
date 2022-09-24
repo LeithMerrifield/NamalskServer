@@ -1,0 +1,262 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-9-23_7-57-45
+====================================================================================
+7:57:45 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+7:57:45 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+7:57:45 | [PermissionManager] Perm (FreeCamera) has been registered!
+7:57:45 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuItemManager) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuServerManager) has been registered!
+7:57:45 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+7:57:45 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+7:57:45 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+7:57:45 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+7:57:45 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+7:57:45 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+7:57:45 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+7:57:45 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+7:57:45 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+7:57:45 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+7:57:45 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+7:57:45 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+7:57:45 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+7:57:45 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+7:57:45 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+7:57:45 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+7:57:45 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+7:57:45 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+7:57:45 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+7:57:45 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+7:57:45 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+7:57:45 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+7:57:45 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+7:57:45 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+7:57:45 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+7:57:45 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+7:57:45 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+7:57:45 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+7:57:45 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+7:57:45 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+7:57:45 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+7:57:45 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+7:57:45 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuBansManager) has been registered!
+7:57:45 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+7:57:45 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+7:57:45 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+7:57:45 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+7:57:45 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+7:57:45 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+7:57:45 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+7:57:45 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+7:57:45 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+7:57:45 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+7:57:45 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+7:57:45 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+7:57:45 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+7:57:45 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+7:57:45 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+7:57:45 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+7:57:45 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+7:57:45 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+7:57:45 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+7:57:45 | Building Sets Loaded: 0
+7:57:45 | [PermissionManager] Adding Super Admin (76561198063550007)
+7:57:45 | [PermissionManager] Adding Super Admin (76561198069476650)
+7:57:45 | [PermissionManager] Loaded UserGroups.json
+7:57:45 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+7:57:45 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+7:57:45 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+7:57:45 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+7:57:45 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+7:57:45 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+7:57:45 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+7:57:45 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+7:57:45 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+7:57:45 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+7:57:45 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+7:57:45 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+7:57:45 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+7:57:45 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+7:57:45 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+7:57:45 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+7:57:45 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+7:57:45 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+7:57:45 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+7:57:45 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+7:59:47 | Player "PhattSausage" (steamId=76561198063550007) connected to server!
+8:0:12 | Player "PhattSausage" (steamId=76561198063550007) connected to server!
+8:0:22 | "PhattSausage" (steamid=76561198063550007) healed player (steamid=76561198063550007)
+8:0:23 | "PhattSausage" (steamid=76561198063550007) gave godmode to (steamid=76561198063550007)
+8:0:23 | Player "CheesyBoi" (steamId=76561198069476650) connected to server!
+8:0:26 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5126.543945, 1140.518188, 6731.115234>)
+8:0:27 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5962.048828, 1586.720093, 7290.989746>)
+8:0:36 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5128.069824, 82.675163, 6733.196777>)
+8:0:36 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5357.592285, 278.667480, 6886.711426>)
+8:0:37 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4979.086426, 50.349407, 6534.642090>)
+8:0:40 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5198.258789, 1111.318359, 6729.579102>)
+8:0:40 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<5983.651367, 1836.278442, 6468.259277>)
+8:0:41 | Player "CheesyBoi" (steamId=76561198069476650) connected to server!
+8:0:41 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<6695.610352, 1442.018188, 7207.896973>)
+8:0:41 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<7113.048340, 862.309204, 8043.817871>)
+8:0:46 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<7080.797852, 142.558105, 8963.291016>)
+8:0:46 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<7071.681641, -0.172440, 9178.623047>)
+8:0:47 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<7094.641113, -0.180405, 9166.089844>)
+8:0:47 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<7095.050781, -0.196024, 9167.849609>)
+8:0:47 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<7095.030762, -0.205584, 9168.475586>)
+8:0:47 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<6794.882324, 34.386169, 11101.888672>)
+8:0:48 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<6799.281738, 34.384022, 11098.958008>)
+8:0:48 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<6803.490234, 34.381966, 11095.964844>)
+8:0:48 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<6807.394043, 34.380062, 11092.578125>)
+8:0:49 | "CheesyBoi" (steamid=76561198069476650) toggled godmode
+8:0:50 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<6811.791992, 34.390358, 11087.751953>)
+8:0:53 | "PhattSausage" (steamid=76561198063550007) executed kill command on: "76561198063550007"
+8:1:5 | "PhattSausage" (steamid=76561198063550007) gave godmode to (steamid=76561198063550007)
+8:1:52 | "76561198063550007" (steamid=76561198063550007) teleported to (pos=<4985.899902, 10.594946, 6600.540039>)
+8:1:52 | "PhattSausage": (steamid=76561198063550007) teleported to (pos=4985.9,0,6600.54)
+8:1:55 | "76561198063550007" (steamid=76561198063550007) teleported to (pos=<5048.620117, 39.822292, 6498.990234>)
+8:1:55 | "PhattSausage": (steamid=76561198063550007) teleported to (pos=5048.62,0,6498.99)
+8:1:59 | "CheesyBoi": (steamid=76561198069476650) teleported to (pos=Athena 3)
+8:2:6 | "CheesyBoi" (steamid=76561198069476650) toggled freecam
+8:2:8 | "CheesyBoi" (steamid=76561198069476650) toggled freecam
+8:2:9 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3594.633545, 170.447510, 6713.270020>)
+8:2:9 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3594.753662, 172.468872, 6712.842773>)
+8:2:9 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3594.660156, 174.125656, 6712.352539>)
+8:2:9 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3603.186523, 217.235779, 6700.347656>)
+8:2:9 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3603.906738, 218.775970, 6699.386230>)
+8:2:10 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3666.778809, 1306.342773, 6535.301270>)
+8:2:10 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3640.322998, 2402.984375, 6442.448730>)
+8:2:10 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3320.812256, 3384.856445, 6061.082520>)
+8:2:11 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3297.136230, 2280.191895, 5965.578125>)
+8:2:11 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3273.021240, 1182.305298, 5871.875488>)
+8:2:12 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3249.296143, 79.378174, 5777.484863>)
+8:2:13 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3121.372559, 81.774284, 6108.343262>)
+8:2:13 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3120.505615, 83.226921, 6110.790527>)
+8:2:14 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3116.045898, 97.646111, 6129.508789>)
+8:2:15 | "CheesyBoi" (steamid=76561198069476650) toggled freecam
+8:3:27 | "PhattSausage" (steamid=76561198063550007) toggled freecam
+8:3:50 | "CheesyBoi" (steamid=76561198069476650) toggled freecam
+8:3:54 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3124.272217, 112.260643, 6155.324219>)
+8:3:55 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3127.582275, 115.052864, 6161.973145>)
+8:3:55 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3137.586426, 119.267311, 6177.101074>)
+8:3:55 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3146.475830, 122.996696, 6189.701660>)
+8:3:55 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3152.293457, 126.059692, 6197.886719>)
+8:3:56 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3159.384521, 129.481964, 6207.710938>)
+8:3:56 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3203.527588, 138.319229, 6261.685547>)
+8:3:56 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3295.242676, 151.547775, 6369.629883>)
+8:3:56 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3579.156250, 142.941757, 6475.692383>)
+8:3:57 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3580.512695, 144.555878, 6476.065430>)
+8:3:57 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3834.682617, 207.578278, 6449.231934>)
+8:3:57 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3954.465088, 240.347412, 6436.100098>)
+8:3:57 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3958.003662, 243.252090, 6436.046875>)
+8:3:58 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3959.377930, 244.445068, 6436.083008>)
+8:3:58 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3968.120117, 252.110260, 6437.961426>)
+8:3:58 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4017.293945, 307.107483, 6484.079102>)
+8:3:59 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4016.332764, 323.292969, 6495.963867>)
+8:3:59 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4018.359131, 328.286865, 6498.785156>)
+8:3:59 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4021.549316, 333.472412, 6502.656250>)
+8:4:0 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4024.271484, 336.509277, 6505.165039>)
+8:4:0 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4030.257080, 341.119965, 6509.654297>)
+8:4:0 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4039.413574, 346.734924, 6516.367676>)
+8:4:0 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4048.484131, 351.630157, 6523.006836>)
+8:4:1 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4103.903809, 376.253632, 6555.475586>)
+8:4:1 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4108.045898, 379.845032, 6557.842285>)
+8:4:1 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4121.144531, 387.175507, 6565.534180>)
+8:4:2 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4129.645996, 387.819855, 6571.637695>)
+8:4:2 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4142.025391, 388.900970, 6582.879395>)
+8:4:3 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4150.329102, 389.807983, 6586.228027>)
+8:4:3 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4160.497070, 389.953033, 6587.191895>)
+8:4:3 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4171.234375, 389.959625, 6587.809570>)
+8:4:8 | "76561198069476650" (steamid=76561198069476650) teleported to (pos=<3211.409912, 121.161591, 7538.729980>)
+8:4:8 | "CheesyBoi": (steamid=76561198069476650) teleported to (pos=3211.41,0,7538.73)
+8:4:12 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3204.257080, 120.003883, 7524.902832>)
+8:4:29 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3189.666260, 118.318253, 7509.853027>)
+8:4:31 | "PhattSausage" (steamid=76561198063550007) toggled freecam
+8:4:39 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3202.755859, 117.213028, 7491.193359>)
+8:4:39 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3204.062500, 118.993279, 7490.318848>)
+8:4:39 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3236.749512, 122.603905, 7481.085938>)
+8:4:41 | "PhattSausage" (steamid=76561198063550007) healed player (steamid=76561198063550007)
+8:4:42 | "PhattSausage" (steamid=76561198063550007) healed player (steamid=76561198063550007)
+8:4:42 | "PhattSausage" (steamid=76561198063550007) healed player (steamid=76561198063550007)
+8:4:42 | "PhattSausage" (steamid=76561198063550007) healed player (steamid=76561198063550007)
+8:4:42 | "PhattSausage" (steamid=76561198063550007) healed player (steamid=76561198063550007)
+8:4:42 | "PhattSausage" (steamid=76561198063550007) healed player (steamid=76561198063550007)
+8:4:43 | "PhattSausage" (steamid=76561198063550007) healed player (steamid=76561198063550007)
+8:4:43 | "PhattSausage" (steamid=76561198063550007) healed player (steamid=76561198063550007)
+8:4:43 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3238.989258, 126.404648, 7491.097168>)
+8:4:43 | "PhattSausage" (steamid=76561198063550007) healed player (steamid=76561198063550007)
+8:4:43 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3274.265869, 129.136475, 7506.117188>)
+8:4:43 | "PhattSausage" (steamid=76561198063550007) healed player (steamid=76561198063550007)
+8:4:43 | "PhattSausage" (steamid=76561198063550007) healed player (steamid=76561198063550007)
+8:4:43 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3282.047852, 131.253174, 7509.235840>)
+8:4:43 | "PhattSausage" (steamid=76561198063550007) healed player (steamid=76561198063550007)
+8:4:43 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3282.786865, 132.959061, 7509.476074>)
+8:4:44 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3283.662842, 134.571823, 7510.251953>)
+8:4:44 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4239.241699, 218.258270, 8050.958496>)
+8:4:44 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3307.187256, 136.350266, 7523.160645>)
+8:4:44 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3301.290283, 134.956131, 7520.277344>)
+8:4:45 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3293.628906, 133.696152, 7521.463867>)
+8:4:45 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3293.902832, 133.896744, 7526.095703>)
+8:4:45 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3294.216553, 133.963303, 7526.817383>)
+8:4:45 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3297.166016, 134.521698, 7529.191406>)
+8:4:46 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3311.036133, 137.318985, 7552.579102>)
+8:4:47 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3318.628906, 139.495102, 7564.812500>)
+8:4:47 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3331.257080, 141.405640, 7582.354004>)
+8:4:47 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3338.966553, 143.308990, 7592.956543>)
+8:4:48 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3373.983154, 145.087753, 7641.505371>)
+8:4:48 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3379.825439, 147.092560, 7649.576660>)
+8:4:48 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3428.673584, 149.597809, 7717.208984>)
+8:4:49 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3467.765869, 151.911789, 7771.354980>)
+8:4:49 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3479.358643, 153.754654, 7787.304199>)
+8:4:49 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3485.780762, 155.628815, 7796.195801>)
+8:4:49 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3490.490723, 157.811615, 7804.209961>)
+8:4:50 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3493.013672, 160.470200, 7810.479004>)
+8:4:50 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3495.615479, 163.282990, 7817.654297>)
+8:4:50 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3498.371338, 166.083786, 7825.421387>)
+8:4:51 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3500.678711, 168.714203, 7832.108398>)
+8:4:51 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3503.012207, 171.379944, 7838.718750>)
+8:4:51 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3505.323242, 174.085907, 7845.306641>)
+8:4:51 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3507.874023, 176.858627, 7852.646973>)
+8:4:52 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3511.629395, 179.954849, 7863.348145>)
+8:4:52 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3532.993896, 178.441483, 7894.583984>)
+8:4:53 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3537.824707, 179.390335, 7901.255371>)
+8:4:53 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3548.801270, 179.589676, 7915.802734>)
+8:4:53 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3560.977783, 180.190887, 7931.130371>)
+8:4:53 | "CheesyBoi" (steamid=76561198069476650) /heal used on: "CheesyBoi" (steamid=76561198069476650)
+8:4:54 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4962.320801, 47.058971, 6612.301270>)
+8:4:54 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3587.929688, 179.321228, 7965.066895>)
+8:4:54 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3598.396484, 180.125458, 7977.660156>)
+8:4:54 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3603.953613, 181.477036, 7984.374023>)
+8:4:54 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3608.423828, 182.960602, 7989.707520>)
+8:4:55 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3614.311523, 184.695343, 7994.663086>)
+8:4:55 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3619.824707, 186.157532, 7999.164063>)
+8:4:55 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<3627.378662, 187.294998, 8005.324707>)
+8:4:55 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4474.727051, 120.448387, 8704.903320>)
+8:4:57 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4578.257813, 47.910526, 8813.785156>)
+8:4:59 | "CheesyBoi" (steamid=76561198069476650) teleported to crosshair (pos=<4581.319824, 43.490040, 8816.594727>)
+8:5:3 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4953.718750, 46.565578, 6572.204590>)
+8:5:3 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4963.625000, 46.762314, 6570.276855>)
+8:5:4 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4973.826172, 46.800003, 6568.569824>)
+8:5:4 | "PhattSausage" (steamid=76561198063550007) teleported to crosshair (pos=<4982.457031, 46.895512, 6567.795410>)
+8:5:13 | Player "CheesyBoi" (steamId=76561198069476650) disconnected from server.
+8:5:14 | Player "CheesyBoi" (steamId=76561198069476650) disconnected from server.
+8:5:29 | Player "PhattSausage" (steamId=76561198063550007) disconnected from server.
