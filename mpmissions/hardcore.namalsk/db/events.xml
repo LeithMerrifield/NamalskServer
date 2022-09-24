@@ -499,6 +499,7 @@
             <child lootmax="0" lootmin="0" max="0" min="10" type="ZmbM_BloodSucker_superhard"/>
         </children>
     </event>
+    <!--
     <event name="InfectedSnork">
         <nominal>10</nominal>
         <min>10</min>
@@ -516,7 +517,7 @@
             <child lootmax="0" lootmin="0" max="0" min="70" type="Mutant_XZ_Snork1"/>
             <child lootmax="0" lootmin="0" max="0" min="20" type="Mutant_XZ_Snork2"/>
         </children>
-    </event>
+    </event> -->
     <event name="StaticContaminatedArea">
         <nominal>2</nominal>
         <min>2</min>

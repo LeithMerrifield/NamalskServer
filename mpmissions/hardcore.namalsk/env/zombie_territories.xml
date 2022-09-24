@@ -137,7 +137,4 @@
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="8" x="2837.5" z="6302.5" r="75"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="8" x="4177.5" z="8885.71" r="75"/>
     </territory>
-    <territory color="4278190080">
-        <zone name="InfectedSnork" smin="10" smax="50" dmin="3" dmax="8" x="8575" z="10569.2" r="50"/>
-    </territory>
 </territory-type>
