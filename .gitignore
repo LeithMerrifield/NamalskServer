@@ -11,9 +11,12 @@ logs/
 steamapps/
 *.exe
 *.dll
+*.gproj
 namalsk/*.txt
 namalsk/*.ADM
 namalsk/*.RPT
 namalsk/*.MDMP
+namalsk/*.log
+namalsk/VPPAdminTools/Logging/
 mpmissions/hardcore.namalsk/storage_1/
 mpmissions/hardcore.namalsk/storage_0/
