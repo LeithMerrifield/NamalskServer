@@ -15,4 +15,5 @@ namalsk/*.txt
 namalsk/*.ADM
 namalsk/*.RPT
 namalsk/*.MDMP
-mpmissions/hardcore.namalsk/storage_*
+mpmissions/hardcore.namalsk/storage_1/
+mpmissions/hardcore.namalsk/storage_0/
