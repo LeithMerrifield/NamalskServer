@@ -244,4 +244,4 @@
 	<event name="VehicleCivilianCars">
 		<pos x="9095" z="10093" a="0"/>
 	<event/>
-</eventposdef>
+</event>
