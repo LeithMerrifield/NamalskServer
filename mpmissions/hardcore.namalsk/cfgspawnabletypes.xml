@@ -1,6 +1,45 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <spawnabletypes>
     <damage min="0.3" max="0.7" />
+<!-- Vehicle Stuff-->
+	<type name="UAZ_3962_green">
+        <attachments chance="1.00">
+            <item name="UAZ_3962_wheel" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="UAZ_3962_wheel" chance="0.95" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="UAZ_3962_wheel" chance="0.90" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="UAZ_3962_wheel" chance="0.85" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="UAZ_3962_wheel" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="UAZ_3962_doors_driver_green" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="UAZ_3962_doors_codriver_green" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="UAZ_3962_doors_cargo1_green" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="UAZ_3962_doors_trunk_green" chance="1.00" />
+        </attachments>
+    </type>
 <!-- Start Weapon Expansion cfgspawnabletypes.xml -->
 <!-- Pistols -->
     <type name="WE_DesertEagle">

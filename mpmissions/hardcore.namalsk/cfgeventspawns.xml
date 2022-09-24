@@ -241,4 +241,7 @@
 		<pos x="4971.00" z="6579.00" a="49" />
 		<!-- Athena-2 -->
 	</event>
+	<event name="VehicleCivilianCars">
+		<pos x="9095" z="10093" a="0"/>
+	<event/>
 </eventposdef>
