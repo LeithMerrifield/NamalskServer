@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
     <territory color="2718876481">
-        <zone name="Infectedkids" smin="0" smax="0" dmin="25" dmax="50" x="6803.85" z="11215.4" r="50"/>
+        <zone name="Infectedkids" smin="0" smax="0" dmin="3" dmax="15" x="6803.85" z="11215.4" r="50"/>
     </territory>
     <territory color="2164195328">
         <zone name="InfectedMedic" smin="5" smax="10" dmin="3" dmax="8" x="6732.62" z="10987.9" r="50"/>

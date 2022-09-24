@@ -133,10 +133,10 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="0" min="60" type="ZmbM_ruSoldier_normal_Woodland1"/>
-            <child lootmax="0" lootmin="0" max="0" min="60" type="ZmbM_ruSoldier_normal_Woodland2"/>
-            <child lootmax="0" lootmin="0" max="0" min="60" type="ZmbM_usSoldier_normal_Woodland"/>
-            <child lootmax="0" lootmin="0" max="0" min="60" type="ZmbM_nacSoldier_normal"/>
+            <child lootmax="0" lootmin="0" max="0" min="22" type="ZmbM_ruSoldier_normal_Woodland1"/>
+            <child lootmax="0" lootmin="0" max="0" min="22" type="ZmbM_ruSoldier_normal_Woodland2"/>
+            <child lootmax="0" lootmin="0" max="0" min="22" type="FS_ZMB_Stalker_Top"/>
+            <child lootmax="0" lootmin="0" max="0" min="22" type="FS_ZMB_Stalker"/>
             <child lootmax="0" lootmin="0" max="0" min="2" type="Mutant_XZ_Snork1"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="Mutant_XZ_Izlom1"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="Mutant_XZ_Izlom2"/>
@@ -221,6 +221,7 @@
             <child lootmax="0" lootmin="0" max="0" min="2" type="ZmbF_VillagerOld_White"/>
             <child lootmax="0" lootmin="0" max="0" min="2" type="ZmbM_FarmerFat_Beige"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_FarmerFat_Blue"/>
+            <child lootmax="0" lootmin="0" max="0" min="6" type="FS_ZMB_Stalker"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_FarmerFat_Brown"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_FarmerFat_Green"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_JoggerSkinny_Blue"/>
@@ -556,9 +557,9 @@
         </children>
     </event>
     <event name="Infectedkids">
-        <nominal>50</nominal>
-        <min>25</min>
-        <max>250</max>
+        <nominal>5</nominal>
+        <min>3</min>
+        <max>15</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
