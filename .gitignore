@@ -9,6 +9,8 @@ docs/
 dta/
 logs/
 steamapps/
+config/
+dayzsetting.xml
 *.exe
 *.dll
 *.gproj
