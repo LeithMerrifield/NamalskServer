@@ -15,6 +15,7 @@ dayzsetting.xml
 *.dll
 *.gproj
 namalsk/*.txt
+!namalsk/Fortifications Settings.txt
 namalsk/*.ADM
 namalsk/*.RPT
 namalsk/*.MDMP
