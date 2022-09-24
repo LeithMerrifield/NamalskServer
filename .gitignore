@@ -1,8 +1,7 @@
 @*
-!*
 _CommonRedist/
 Addons/
-appacache/
+appcache/
 battleye/
 bliss/
 ContaminatedLocations/
@@ -10,10 +9,16 @@ docs/
 dta/
 logs/
 steamapps/
+config/
+dayzsetting.xml
 *.exe
 *.dll
+*.gproj
 namalsk/*.txt
 namalsk/*.ADM
 namalsk/*.RPT
 namalsk/*.MDMP
-mpmissions/hardcore.namalsk/storage_*
+namalsk/*.log
+namalsk/VPPAdminTools/Logging/
+mpmissions/hardcore.namalsk/storage_1/
+mpmissions/hardcore.namalsk/storage_0/

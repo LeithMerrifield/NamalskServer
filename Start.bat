@@ -1,7 +1,7 @@
 @echo off
 set serverName=Namalsk DayZ server
 
-set serverLocation="C:\Servers\Dayz"
+set serverLocation="C:\Servers\DayZ Servers\Main\NamalskServer"
 
 set serverPort=2302
 
