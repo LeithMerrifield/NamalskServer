@@ -133,15 +133,15 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="0" min="22" type="ZmbM_ruSoldier_normal_Woodland1"/>
-            <child lootmax="0" lootmin="0" max="0" min="22" type="ZmbM_ruSoldier_normal_Woodland2"/>
-            <child lootmax="0" lootmin="0" max="0" min="22" type="FS_ZMB_Stalker_Top"/>
-            <child lootmax="0" lootmin="0" max="0" min="22" type="FS_ZMB_Stalker"/>
+            <child lootmax="0" lootmin="0" max="0" min="42" type="ZmbM_ruSoldier_normal_Woodland1"/>
+            <child lootmax="0" lootmin="0" max="0" min="42" type="ZmbM_ruSoldier_normal_Woodland2"/>
+            <child lootmax="0" lootmin="0" max="0" min="42" type="FS_ZMB_Stalker_Top"/>
+            <child lootmax="0" lootmin="0" max="0" min="42" type="FS_ZMB_Stalker"/>
             <child lootmax="0" lootmin="0" max="0" min="2" type="Mutant_XZ_Snork1"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="Mutant_XZ_Izlom1"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="Mutant_XZ_Izlom2"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="Mutant_XZ_Izlom3"/>
-            <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_BloodSucker_normal"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="ZmbM_BloodSucker_normal"/>
             <!--
             <child lootmax="0" lootmin="0" max="0" min="20" type="ZmbM_usSoldier_normal_Woodland"/>
             <child lootmax="0" lootmin="0" max="0" min="20" type="ZmbM_nacSoldier_normal"/>
@@ -429,7 +429,7 @@
     <event name="AnimalWolf">
         <nominal>7</nominal>
         <min>4</min>
-        <max>5</max>
+        <max>7</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -553,6 +553,11 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="UAZ_3962_green"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="UAZ_3962_green"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="UAZ_3962_green"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="UAZ_3962_green"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="UAZ_3962_green"/>
             <child lootmax="0" lootmin="0" max="1" min="1" type="UAZ_3962_green"/>
         </children>
     </event>
