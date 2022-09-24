@@ -1,8 +1,7 @@
 @*
-!*
 _CommonRedist/
 Addons/
-appacache/
+appcache/
 battleye/
 bliss/
 ContaminatedLocations/
