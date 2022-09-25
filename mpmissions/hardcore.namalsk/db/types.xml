@@ -17082,7 +17082,7 @@
 
 
   <type name="ZmbM_BloodSucker_normal">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -17092,7 +17092,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="ZmbM_BloodSucker_medium">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -17102,7 +17102,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="ZmbM_BloodSucker_hard">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -17112,7 +17112,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="ZmbM_BloodSucker_superhard">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -17122,7 +17122,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Mutant_XZ_Snork1">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -17132,7 +17132,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Mutant_XZ_Snork2">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -17142,7 +17142,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Mutant_XZ_PGigant">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -17152,7 +17152,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Mutant_XZ_Poltergeist">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -17162,7 +17162,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Mutant_XZ_Burer1">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -17172,7 +17172,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Mutant_XZ_Burer2">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
