@@ -2,6 +2,26 @@
 <spawnabletypes>
 	<damage min="0.3" max="0.7" />
 	<!-- Vehicle Stuff-->
+	<type name="motorbike">
+		<attachments chance="1.00">
+			<item name="BMW_R75_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_R75_wheel" chance="0.45" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_R75_wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.10" />
+		</attachments>
+	</type> 
 	<type name="gaz_51">
 		<attachments chance="1.00">
 			<item name="gaz_51_wheel" chance="1.00" />

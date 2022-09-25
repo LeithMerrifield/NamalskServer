@@ -104,8 +104,8 @@
         <children>
             <child lootmax="0" lootmin="0" max="0" min="42" type="ZmbM_ruSoldier_normal_Woodland1"/>
             <child lootmax="0" lootmin="0" max="0" min="52" type="ZmbM_ruSoldier_normal_Woodland2"/>
-            <child lootmax="0" lootmin="0" max="0" min="10" type="FS_ZMB_Stalker_Top"/>
-            <child lootmax="0" lootmin="0" max="0" min="10" type="FS_ZMB_Stalker"/>
+            <child lootmax="0" lootmin="0" max="0" min="5" type="FS_ZMB_Stalker_Top"/>
+            <child lootmax="0" lootmin="0" max="0" min="5" type="FS_ZMB_Stalker"/>
             <child lootmax="0" lootmin="0" max="0" min="2" type="Mutant_XZ_Snork1"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="Mutant_XZ_Izlom1"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="Mutant_XZ_Izlom2"/>
@@ -537,6 +537,23 @@
             <child lootmax="0" lootmin="0" max="1" min="1" type="Niva2329_camo"/>
             <child lootmax="0" lootmin="0" max="1" min="1" type="ZAZ_968M_red"/>
             <child lootmax="0" lootmin="0" max="1" min="1" type="Willys_MB"/>
+        </children>
+    </event>
+    <event name="VehicleShitBox">
+        <nominal>1</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="motorbike"/>
         </children>
     </event>
     <event name="InfectedGroup1">
