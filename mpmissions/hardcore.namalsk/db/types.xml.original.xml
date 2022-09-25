@@ -1,22 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <types>
-  <!-- Added Regular Stuff -->
-  <type name="NailBox">
-    <nominal>30</nominal>
-    <min>27</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
-    <category name="tools" />
-    <tag name="industrial" />
-    <tag name="farm" />
-  </type>
-
   <!-- Zombie Kids -->
   <type name="ZmbM_kid">
     <nominal>0</nominal>
@@ -26,7 +9,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
   </type>
   <type name="ZmbM_kid2">
     <nominal>0</nominal>
@@ -36,7 +19,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
   </type>
   <type name="ZmbM_kid3">
     <nominal>0</nominal>
@@ -46,7 +29,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
   </type>
   <type name="ZmbF_kid">
     <nominal>0</nominal>
@@ -56,7 +39,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
   </type>
   <type name="ZmbF_kid2">
     <nominal>0</nominal>
@@ -66,7 +49,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
   </type>
   <type name="ZmbF_kid3">
     <nominal>0</nominal>
@@ -76,46 +59,50 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
   </type>
   <!-- Building Foritifcations-->
   <type name="BF_DoorBarricadeKit">
     <lifetime>7200</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
   </type>
   <type name="BF_DoorBarricade">
     <lifetime>3888000</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
   </type>
+
   <type name="BF_WindowBarricadeKit">
     <lifetime>7200</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
   </type>
   <type name="BF_WindowBarricade">
     <lifetime>3888000</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
   </type>
+
   <type name="BF_WindowBarricadeMedKit">
     <lifetime>7200</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
   </type>
   <type name="BF_WindowBarricadeMed">
     <lifetime>3888000</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
   </type>
+
   <type name="BF_SlottedPlank">
     <lifetime>7200</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
   </type>
   <!-- End Building Foritications End -->
   <!-- Vehicles -->
+
   <!-- Civilian -->
   <type name="gaz_51">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
   </type>
   <type name="gaz_51_wheel">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -127,7 +114,7 @@
     <tag name="industrial" />
   </type>
   <type name="gaz_51_WheelDouble">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -139,7 +126,7 @@
     <tag name="industrial" />
   </type>
   <type name="gaz_51_doors_driver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -152,7 +139,7 @@
     <tag name="industrial" />
   </type>
   <type name="gaz_51_doors_codriver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -169,7 +156,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
   </type>
   <type name="UAZ_3163_doors_driver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -182,7 +169,7 @@
     <tag name="industrial" />
   </type>
   <type name="UAZ_3163_doors_codriver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -195,7 +182,7 @@
     <tag name="industrial" />
   </type>
   <type name="UAZ_3163_doors_cargo1">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -208,7 +195,7 @@
     <tag name="industrial" />
   </type>
   <type name="UAZ_3163_doors_cargo2">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -221,7 +208,7 @@
     <tag name="industrial" />
   </type>
   <type name="UAZ_3163_doors_trunk">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -234,7 +221,7 @@
     <tag name="industrial" />
   </type>
   <type name="UAZ_3163_doors_hood">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -247,7 +234,7 @@
     <tag name="industrial" />
   </type>
   <type name="UAZ_3163_wheel">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -263,7 +250,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
   </type>
   <type name="Mercedes_G4_W31_Wheel">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -275,7 +262,7 @@
     <tag name="industrial" />
   </type>
   <type name="Mercedes_G4_W31_doors_driver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -288,7 +275,7 @@
     <tag name="industrial" />
   </type>
   <type name="Mercedes_G4_W31_doors_codriver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -301,7 +288,7 @@
     <tag name="industrial" />
   </type>
   <type name="Mercedes_G4_W31_doors_cargo1">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -314,7 +301,7 @@
     <tag name="industrial" />
   </type>
   <type name="Mercedes_G4_W31_doors_cargo2">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -327,7 +314,7 @@
     <tag name="industrial" />
   </type>
   <type name="Mercedes_G4_W31_doors_trunk">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -340,7 +327,7 @@
     <tag name="industrial" />
   </type>
   <type name="Mercedes_G4_W31_doors_hood">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -357,7 +344,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
   </type>
   <type name="IJ_2125_Kombi_wheel">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -369,7 +356,7 @@
     <tag name="industrial" />
   </type>
   <type name="IJ_2125_Kombi_doors_driver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -382,7 +369,7 @@
     <tag name="industrial" />
   </type>
   <type name="IJ_2125_Kombi_doors_codriver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -395,7 +382,7 @@
     <tag name="industrial" />
   </type>
   <type name="IJ_2125_Kombi_doors_cargo1">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -408,7 +395,7 @@
     <tag name="industrial" />
   </type>
   <type name="IJ_2125_Kombi_doors_cargo2">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -421,7 +408,7 @@
     <tag name="industrial" />
   </type>
   <type name="IJ_2125_Kombi_doors_hood">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -434,7 +421,7 @@
     <tag name="industrial" />
   </type>
   <type name="IJ_2125_Kombi_doors_trunk">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -451,7 +438,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
   </type>
   <type name="IJ_2125_Kombi_doors_driver_orange">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -464,7 +451,7 @@
     <tag name="industrial" />
   </type>
   <type name="IJ_2125_Kombi_doors_codriver_orange">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -477,7 +464,7 @@
     <tag name="industrial" />
   </type>
   <type name="IJ_2125_Kombi_doors_cargo1_orange">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -490,7 +477,7 @@
     <tag name="industrial" />
   </type>
   <type name="IJ_2125_Kombi_doors_cargo2_orange">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -503,7 +490,7 @@
     <tag name="industrial" />
   </type>
   <type name="IJ_2125_Kombi_doors_hood_orange">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -516,7 +503,7 @@
     <tag name="industrial" />
   </type>
   <type name="IJ_2125_Kombi_doors_trunk_orange">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -533,7 +520,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
   </type>
   <type name="GAZ_M20_doors_driver_Blue">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -546,7 +533,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_M20_doors_codriver_Blue">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -559,7 +546,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_M20_doors_cargo1_Blue">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -572,7 +559,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_M20_doors_cargo2_Blue">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -585,7 +572,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_M20_doors_hood_Blue">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -598,7 +585,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_M20_doors_trunk_Blue">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -615,7 +602,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
   </type>
   <type name="GAZ_M20_doors_driver_black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -628,7 +615,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_M20_doors_codriver_black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -641,7 +628,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_M20_doors_cargo1_black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -654,7 +641,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_M20_doors_cargo2_black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -667,7 +654,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_M20_doors_hood_black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -680,7 +667,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_M20_doors_trunk_black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -697,7 +684,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
   </type>
   <type name="GAZ_M20_doors_driver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -710,7 +697,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_M20_doors_codriver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -723,7 +710,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_M20_doors_cargo1">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -736,7 +723,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_M20_doors_cargo2">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -749,7 +736,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_M20_doors_hood">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -762,7 +749,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_M20_doors_trunk">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -775,7 +762,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_M20_wheel">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -786,13 +773,14 @@
     <category name="tools" />
     <tag name="industrial" />
   </type>
+
   <!-- Utility -->
   <type name="AEC_Matador">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
   </type>
   <type name="AEC_Matador_wheel">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -804,7 +792,7 @@
     <tag name="industrial" />
   </type>
   <type name="AEC_Matador_doors_driver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -817,7 +805,7 @@
     <tag name="industrial" />
   </type>
   <type name="AEC_Matador_doors_codriver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -830,7 +818,7 @@
     <tag name="industrial" />
   </type>
   <type name="AEC_Matador_doors_trunk">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -851,7 +839,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
   </type>
   <type name="UAZ_3962_wheel">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -861,9 +849,10 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
     <tag name="industrial" />
+    
   </type>
   <type name="UAZ_3962_doors_driver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -874,9 +863,10 @@
     <category name="tools" />
     <tag name="civilian" />
     <tag name="industrial" />
+    
   </type>
   <type name="UAZ_3962_doors_codriver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -889,7 +879,7 @@
     <tag name="industrial" />
   </type>
   <type name="UAZ_3962_doors_cargo1">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -902,7 +892,7 @@
     <tag name="industrial" />
   </type>
   <type name="UAZ_3962_doors_trunk">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -915,7 +905,7 @@
     <tag name="industrial" />
   </type>
   <type name="UAZ_3962_doors_driver_green">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -928,7 +918,7 @@
     <tag name="industrial" />
   </type>
   <type name="UAZ_3962_doors_codriver_green">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -941,7 +931,7 @@
     <tag name="industrial" />
   </type>
   <type name="UAZ_3962_doors_cargo1_green">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -954,7 +944,7 @@
     <tag name="industrial" />
   </type>
   <type name="UAZ_3962_doors_trunk_green">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -971,7 +961,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
   </type>
   <type name="ZiS5_Benzovoz_wheel">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -983,7 +973,7 @@
     <tag name="industrial" />
   </type>
   <type name="ZiS5_Benzovoz_WheelDouble">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -995,7 +985,7 @@
     <tag name="industrial" />
   </type>
   <type name="ZiS5_Benzovoz_doors_driver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1008,7 +998,7 @@
     <tag name="industrial" />
   </type>
   <type name="ZiS5_Benzovoz_doors_codriver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1025,7 +1015,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
   </type>
   <type name="URAL_375_1964_Wheel">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1037,7 +1027,7 @@
     <tag name="industrial" />
   </type>
   <type name="URAL_375_1964_doors_driver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1050,7 +1040,7 @@
     <tag name="industrial" />
   </type>
   <type name="URAL_375_1964_doors_codriver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1063,7 +1053,7 @@
     <tag name="industrial" />
   </type>
   <type name="URAL_375_1964_doors_hood">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1093,7 +1083,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_66_Wheel">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1105,7 +1095,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_66_doors_driver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1118,7 +1108,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_66_doors_codriver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1131,7 +1121,7 @@
     <tag name="industrial" />
   </type>
   <type name="GAZ_66_doors_trunk">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1148,7 +1138,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Niva2329_wheel">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1160,7 +1150,7 @@
     <tag name="industrial" />
   </type>
   <type name="Niva2329_doors_driver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1173,7 +1163,7 @@
     <tag name="industrial" />
   </type>
   <type name="Niva2329_doors_codriver">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1186,7 +1176,7 @@
     <tag name="industrial" />
   </type>
   <type name="Niva2329_doors_trunk">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1199,7 +1189,7 @@
     <tag name="industrial" />
   </type>
   <type name="Niva2329_doors_hood">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1216,7 +1206,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Niva2329_doors_driver_camo">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1229,7 +1219,7 @@
     <tag name="industrial" />
   </type>
   <type name="Niva2329_doors_codriver_camo">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1242,7 +1232,7 @@
     <tag name="industrial" />
   </type>
   <type name="Niva2329_doors_trunk_camo">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1255,7 +1245,7 @@
     <tag name="industrial" />
   </type>
   <type name="Niva2329_doors_hood_camo">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1267,8 +1257,9 @@
     <tag name="civilian" />
     <tag name="industrial" />
   </type>
+  
   <type name="ZAZ_968M_wheel">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1284,7 +1275,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
   </type>
   <type name="ZAZ_968M_doors_driver_red">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1294,7 +1285,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="ZAZ_968M_doors_codriver_red">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1311,7 +1302,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
   </type>
   <type name="Willys_MB_wheel">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1323,7 +1314,7 @@
     <tag name="industrial" />
   </type>
   <type name="Willys_MB_doors_hood">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>1700</lifetime>
     <restock>450</restock>
     <min>0</min>
@@ -1335,6 +1326,7 @@
     <tag name="civilian" />
     <tag name="industrial" />
   </type>
+
   <!-- NAMALSK - WEAPONS - RIFLES -->
   <type name="AK74">
     <nominal>1</nominal>
@@ -4976,21 +4968,6 @@
     <tag name="farm" />
     <tag name="industrial" />
   </type>
-  <type name="MetalPlate">
-    <nominal>40</nominal>
-    <min>40</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <quantmin>10</quantmin>
-    <quantmax>100</quantmax>
-    <cost>100</cost>
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
-    <category name="tools" />
-    <tag name="farm" />
-    <tag name="industrial" />
-  </type>
   <type name="Camonet">
     <nominal>3</nominal>
     <min>1</min>
@@ -5201,21 +5178,6 @@
     <category name="containers" />
     <tag name="civilian" />
   </type>
-  <type name="LargeTent">
-    <nominal>6</nominal>
-    <min>5</min>
-    <lifetime>1209600</lifetime>
-    <restock>10800</restock>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
-    <category name="containers" />
-    <tag name="military" />
-  </type>
-
   <type name="Barrel_Green">
     <nominal>3</nominal>
     <min>1</min>
@@ -5787,36 +5749,6 @@
     <tag name="hunting" />
     <tag name="military" />
   </type>
-  <type name="CombinationLock">
-    <nominal>10</nominal>
-    <min>7</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
-    <category name="tools" />
-    <tag name="civilian" />
-    <tag name="industrial" />
-  </type>
-  <type name="CombinationLock4">
-    <nominal>7</nominal>
-    <min>5</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
-    <category name="tools" />
-    <tag name="civilian" />
-    <tag name="industrial" />
-  </type>
   <type name="Lockpick">
     <nominal>20</nominal>
     <min>15</min>
@@ -6231,215 +6163,6 @@
     <tag name="farm" />
     <tag name="hunting" />
   </type>
-  <type name="Flag_APA">
-    <nominal>1</nominal>
-    <min>1</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-    <category name="tools"/>
-    <tag name="civilian" />
-  </type>
-  <type name="Flag_BabyDeer">
-    <nominal>1</nominal>
-    <min>1</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-    <category name="tools"/>
-    <tag name="civilian" />
-  </type>
-  <type name="Flag_Bear">
-    <nominal>1</nominal>
-    <min>1</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-    <category name="tools"/>
-    <tag name="civilian" />
-  </type>
-  <type name="Flag_BrainZ">
-    <nominal>1</nominal>
-    <min>1</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-    <category name="tools"/>
-    <tag name="civilian" />
-  </type>
-  <type name="Flag_CHEL">
-    <nominal>1</nominal>
-    <min>1</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-    <category name="tools"/>
-    <tag name="civilian" />
-  </type>
-  <type name="Flag_CMC">
-    <nominal>1</nominal>
-    <min>1</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-    <category name="tools"/>
-    <tag name="civilian" />
-  </type>
-  <type name="Flag_Cannibals">
-    <nominal>1</nominal>
-    <min>1</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-    <category name="tools"/>
-    <tag name="civilian" />
-  </type>
-  <type name="Flag_DayZ">
-    <nominal>1</nominal>
-    <min>1</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-    <category name="tools"/>
-    <tag name="civilian" />
-  </type>
-  <type name="Flag_HunterZ">
-    <nominal>1</nominal>
-    <min>1</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-    <category name="tools"/>
-    <tag name="civilian" />
-  </type>
-  <type name="Flag_Pirates">
-    <nominal>1</nominal>
-    <min>1</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-    <category name="tools"/>
-    <tag name="civilian" />
-  </type>
-  <type name="Flag_Rooster">
-    <nominal>1</nominal>
-    <min>1</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-    <category name="tools"/>
-    <tag name="civilian" />
-  </type>
-  <type name="Flag_TEC">
-    <nominal>1</nominal>
-    <min>1</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-    <category name="tools"/>
-    <tag name="civilian" />
-  </type>
-  <type name="Flag_UEC">
-    <nominal>1</nominal>
-    <min>1</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-    <category name="tools"/>
-    <tag name="civilian" />
-  </type>
-  <type name="Flag_White">
-    <nominal>1</nominal>
-    <min>1</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-    <category name="tools"/>
-    <tag name="civilian" />
-  </type>
-  <type name="Flag_Wolf">
-    <nominal>1</nominal>
-    <min>1</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-    <category name="tools"/>
-    <tag name="civilian" />
-  </type>
-  <type name="Flag_Zenit">
-    <nominal>1</nominal>
-    <min>1</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-    <category name="tools"/>
-    <tag name="civilian" />
-  </type>
-
   <!-- NAMALSK - CLOTHES - TOPS -->
   <type name="GorkaEJacket_Summer">
     <nominal>2</nominal>
@@ -17922,6 +17645,10 @@
     <category name="tools" />
     <usage name="Military" />
   </type>
+
+
+
+
   <!-- REV Recurve Bow -->
   <type name="Rev_BowRecurve">
     <nominal>1</nominal>
@@ -18569,6 +18296,12 @@
     <value name="Tier3" />
     <value name="Tier5" />
   </type>
+
+
+
+
+
+
   <type name="ZmbM_BloodSucker_normal">
     <nominal>0</nominal>
     <lifetime>1800</lifetime>

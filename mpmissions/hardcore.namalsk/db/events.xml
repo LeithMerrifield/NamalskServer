@@ -49,42 +49,6 @@
             <child lootmax="5" lootmin="2" max="6" min="6" type="sea_oilrig_lifeboat"/>
         </children>
     </event>
-    <event name="StaticSantaCrash">
-        <nominal>6</nominal>
-        <min>0</min>
-        <max>0</max>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <saferadius>1000</saferadius>
-        <distanceradius>1000</distanceradius>
-        <cleanupradius>1000</cleanupradius>
-        <flags deletable="1" init_random="0" remove_damaged="0" sec_spawner="1"/>
-        <secondary>InfectedSanta</secondary>
-        <position>fixed</position>
-        <limit>child</limit>
-        <active>0</active>
-        <children>
-            <child lootmax="15" lootmin="10" max="6" min="6" type="Wreck_SantasSleigh"/>
-        </children>
-    </event>
-    <event name="StaticChristmasTree">
-        <nominal>9</nominal>
-        <min>0</min>
-        <max>0</max>
-        <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <saferadius>100</saferadius>
-        <distanceradius>100</distanceradius>
-        <cleanupradius>100</cleanupradius>
-        <flags deletable="1" init_random="0" remove_damaged="0" sec_spawner="1"/>
-        <secondary>InfectedSanta</secondary>
-        <position>fixed</position>
-        <limit>child</limit>
-        <active>0</active>
-        <children>
-            <child lootmax="15" lootmin="12" max="9" min="9" type="ChristmasTree"/>
-        </children>
-    </event>
     <event name="TrajectoryStones">
         <nominal>100</nominal>
         <min>1</min>
@@ -102,21 +66,26 @@
             <child lootmax="0" lootmin="0" max="0" min="0" type="SmallStone"/>
         </children>
     </event>
-    <event name="InfectedSanta">
-        <nominal>0</nominal>
-        <min>0</min>
-        <max>800</max>
+    <event name="Infectedkids">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>250</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
         <cleanupradius>100</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="0" min="100" type="ZmbM_Santa"/>
+            <child lootmax="4" lootmin="0" max="0" min="3" type="ZmbM_kid"/>
+            <child lootmax="4" lootmin="0" max="0" min="2" type="ZmbM_kid2"/>
+            <child lootmax="4" lootmin="0" max="0" min="2" type="ZmbM_kid3"/>
+            <child lootmax="4" lootmin="0" max="0" min="2" type="ZmbF_kid"/>
+            <child lootmax="4" lootmin="0" max="0" min="3" type="ZmbF_kid2"/>
+            <child lootmax="4" lootmin="0" max="0" min="2" type="ZmbF_kid3"/>
         </children>
     </event>
     <event name="InfectedArmy">
@@ -133,19 +102,15 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="0" min="60" type="ZmbM_ruSoldier_normal_Woodland1"/>
-            <child lootmax="0" lootmin="0" max="0" min="60" type="ZmbM_ruSoldier_normal_Woodland2"/>
-            <child lootmax="0" lootmin="0" max="0" min="60" type="ZmbM_usSoldier_normal_Woodland"/>
-            <child lootmax="0" lootmin="0" max="0" min="60" type="ZmbM_nacSoldier_normal"/>
+            <child lootmax="0" lootmin="0" max="0" min="42" type="ZmbM_ruSoldier_normal_Woodland1"/>
+            <child lootmax="0" lootmin="0" max="0" min="52" type="ZmbM_ruSoldier_normal_Woodland2"/>
+            <child lootmax="0" lootmin="0" max="0" min="10" type="FS_ZMB_Stalker_Top"/>
+            <child lootmax="0" lootmin="0" max="0" min="10" type="FS_ZMB_Stalker"/>
             <child lootmax="0" lootmin="0" max="0" min="2" type="Mutant_XZ_Snork1"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="Mutant_XZ_Izlom1"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="Mutant_XZ_Izlom2"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="Mutant_XZ_Izlom3"/>
-            <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_BloodSucker_normal"/>
-            <!--
-            <child lootmax="0" lootmin="0" max="0" min="20" type="ZmbM_usSoldier_normal_Woodland"/>
-            <child lootmax="0" lootmin="0" max="0" min="20" type="ZmbM_nacSoldier_normal"/>
-            -->
+            <child lootmax="0" lootmin="0" max="1" min="1" type="ZmbM_BloodSucker_normal"/>
         </children>
     </event>
     <event name="InfectedIndustrial">
@@ -221,6 +186,7 @@
             <child lootmax="0" lootmin="0" max="0" min="2" type="ZmbF_VillagerOld_White"/>
             <child lootmax="0" lootmin="0" max="0" min="2" type="ZmbM_FarmerFat_Beige"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_FarmerFat_Blue"/>
+            <child lootmax="0" lootmin="0" max="0" min="6" type="FS_ZMB_Stalker"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_FarmerFat_Brown"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_FarmerFat_Green"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_JoggerSkinny_Blue"/>
@@ -428,7 +394,7 @@
     <event name="AnimalWolf">
         <nominal>7</nominal>
         <min>4</min>
-        <max>5</max>
+        <max>7</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -499,24 +465,6 @@
             <child lootmax="0" lootmin="0" max="0" min="10" type="ZmbM_BloodSucker_superhard"/>
         </children>
     </event>
-    <event name="InfectedSnork">
-        <nominal>10</nominal>
-        <min>10</min>
-        <max>25</max>
-        <lifetime>3</lifetime>
-        <restock>0</restock>
-        <saferadius>100</saferadius>
-        <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
-        <position>player</position>
-        <limit>custom</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="0" min="70" type="Mutant_XZ_Snork1"/>
-            <child lootmax="0" lootmin="0" max="0" min="20" type="Mutant_XZ_Snork2"/>
-        </children>
-    </event>
     <event name="StaticContaminatedArea">
         <nominal>2</nominal>
         <min>2</min>
@@ -537,4 +485,119 @@
             <child lootmax="0" lootmin="0" max="0" min="10" type="Mutant_XZ_Poltergeist"/>
         </children>
     </event>
+    <event name="VehicleCivilianCars">
+        <nominal>1</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="UAZ_3962_green"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="UAZ_3163"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Mercedes_G4_W31"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="IJ_2125_Kombi"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="IJ_2125_Kombi_orange"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="GAZ_M20_Blue"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="GAZ_M20_black"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="GAZ_M20"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="UAZ_3962"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="GAZ_M20_Blue"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Niva2329"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Willys_MB"/>
+        </children>
+    </event>
+
+    <event name="VehicleUtilityCars">
+        <nominal>1</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="gaz_51"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="AEC_Matador"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="ZiS5_Benzovoz"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="URAL_375_1964"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="GAZ_66"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="GAZ_66_kuzov"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Niva2329_camo"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="ZAZ_968M_red"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Willys_MB"/>
+        </children>
+    </event>
+    <event name="InfectedGroup1">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>100</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="4" lootmin="0" max="0" min="49" type="FS_Tark"/>
+            <child lootmax="4" lootmin="0" max="0" min="17" type="Mutant_XZ_Himera1"/>
+            <child lootmax="4" lootmin="0" max="0" min="17" type="Mutant_XZ_Himera2"/>
+            <child lootmax="4" lootmin="0" max="0" min="17" type="Mutant_XZ_Himera3"/>
+        </children>
+    </event>
+    <!--
+    <event name="InfectedGroup2">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>50</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="4" lootmin="0" max="0" min="3" type="FS_Tark"/>
+            <child lootmax="4" lootmin="0" max="0" min="2" type="Mutant_XZ_Himera1"/>
+            <child lootmax="4" lootmin="0" max="0" min="2" type="Mutant_XZ_Himera2"/>
+            <child lootmax="4" lootmin="0" max="0" min="2" type="Mutant_XZ_Himera3"/>
+        </children>
+    </event>
+    <event name="InfectedGroup3">
+        <nominal>5</nominal>
+        <min>3</min>
+        <max>15</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="4" lootmin="0" max="0" min="3" type="FS_Tark"/>
+            <child lootmax="4" lootmin="0" max="0" min="2" type="Mutant_XZ_Himera1"/>
+            <child lootmax="4" lootmin="0" max="0" min="2" type="Mutant_XZ_Himera2"/>
+            <child lootmax="4" lootmin="0" max="0" min="2" type="Mutant_XZ_Himera3"/>
+        </children>
+    </event> -->
 </events>
