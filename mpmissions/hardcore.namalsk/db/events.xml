@@ -488,7 +488,7 @@
     <event name="VehicleCivilianCars">
         <nominal>1</nominal>
         <min>1</min>
-        <max>4</max>
+        <max>1</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -500,14 +500,45 @@
         <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="1" min="1" type="UAZ_3962_green"/>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="UAZ_3962_green"/>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="UAZ_3962_green"/>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="UAZ_3962_green"/>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="UAZ_3962_green"/>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="UAZ_3962_green"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="UAZ_3163"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Mercedes_G4_W31"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="IJ_2125_Kombi"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="IJ_2125_Kombi_orange"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="GAZ_M20_Blue"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="GAZ_M20_black"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="GAZ_M20"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="UAZ_3962"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="GAZ_M20_Blue"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Niva2329"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Willys_MB"/>
         </children>
     </event>
 
+    <event name="VehicleUtilityCars">
+        <nominal>1</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="gaz_51"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="AEC_Matador"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="ZiS5_Benzovoz"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="URAL_375_1964"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="GAZ_66"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="GAZ_66_kuzov"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Niva2329_camo"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="ZAZ_968M_red"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Willys_MB"/>
+        </children>
+    </event>
     <event name="InfectedGroup1">
         <nominal>0</nominal>
         <min>0</min>
